@@ -4,7 +4,7 @@ import confettiBall from './images/noto_confetti-ball.png';
 
 function App() {
   return (
-    <div className="flex flex-col items-center p-6 Helvetica Now Display border border-#FFFFFF w-[502px] h-[405px] mx-auto rounded-[16px] box-border">
+    <div className="flex flex-col items-center p-6 Helvetica Now Display border border-#FFFFFF w-[502px] h-[405px] mx-auto rounded-[16px] box-border mt-12">
       <div className="w-[120px] h-[120px]">
         <img src={confettiBall} alt="Confetti Ball" />
       </div>
